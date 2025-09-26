@@ -12,5 +12,5 @@ This project is about using machine learning models to identify jets using jet s
 
 ## Reference Paper and Dataset
 In this project, we are interested to compare our model's results with the results from a study published in the following paper, using the same evaluation metrics. The reference study uses the same dataset but a different machine learning algorithm. 
-- The reference paper source can be found here: [Paper](https://iopscience.iop.org/article/10.1088/1748-0221/13/07/P07027)
+- The reference paper source can be found here: [Paper DNN](https://iopscience.iop.org/article/10.1088/1748-0221/13/07/P07027)
 - Dataset is available and can be found here: [Jets Dataset](https://www.openml.org/search?type=data&status=active&id=42468&sort=runs)
