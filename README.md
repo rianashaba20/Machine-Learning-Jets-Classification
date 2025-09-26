@@ -4,8 +4,7 @@ This is a work done in pairs, where I and my project partner focused in differen
 Individual project reports were evaluated independently.
 
 ## Abstract
-This project is about using machine learning models to identify jets using jet substructure information. From already simulated LHC collisions created for the study of ultra low latency inference with hls4ml, 16 features are used to classify jets into five classes, whether they are light quark __(q)__, top quark __(t)__, W boson __(W)__, Z boson __(Z)__, or gluon __(g)__ jet.
-The focus in this study is to classify jets of particles from simulated LHC collisions 
+This project is about using machine learning models to identify jets using jet substructure information. From already simulated LHC collisions created for the study of ultra low latency inference with hls4ml, 16 features are used to classify jets into five classes, whether they are light quark __(q)__, top quark __(t)__, W boson __(W)__, Z boson __(Z)__, or gluon __(g)__ jets.
 
 ## Content
 - The notebook is made with Google Colab can be found here: [Notebook](MachineLearningProject.ipynb)
